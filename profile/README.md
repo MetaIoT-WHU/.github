@@ -32,12 +32,6 @@ We strive to push the boundaries of sensing and perception. Some of our recent i
 * **[IJCAI'25] SDDiff: Boosting Radar Perception via Spatial-Doppler Diffusion**
   A Spatial-Doppler Diffusion model designed to simultaneously achieve dense point cloud extraction (PCE) and accurate ego velocity estimation (EVE). It unlocks the reciprocal synergy between spatial occupancy and Doppler velocity features to refine ghost-prone representations.
 
-* **[ACM MobiCom'24] GPSense: Passive Sensing with Pervasive GPS signals**
-  The first GPS wireless sensing system prototyped on commercial receiver modules, utilizing ubiquitous GPS signals for passive sensing applications to address coverage limitations.
-
-* **[ACM MobiCom'23] GPSMirror: Expanding GPS Positioning with Backscatter**
-  A GPS-strengthening system that expands positioning capabilities in shadowed regions (like urban canyons) using newly designed GPS backscatter tags.
-
 ## 🌈 Collaboration & Guidelines
 
 We actively contribute to the research community through high-quality publications and open-source projects.
